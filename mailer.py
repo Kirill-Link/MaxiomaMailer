@@ -29,7 +29,7 @@ def send_email_reply(sender_email, recipient_email, subject, body):
 
 
 def mailer_resend():
-    db = BotDB(host='192.168.0.104', user='bot', port='3306', password='bot', database='bot')
+    db = BotDB(host='nuepp3ddzwtnggom.chr7pe7iynqr.eu-west-1.rds.amazonaws.com', user='rue24w7t1d3p9zsu', port='3306', password='ietyzegykne7nmfm', database='bthc70gibxdwa44k')
 
     results = db.get_all_filter_data()
 

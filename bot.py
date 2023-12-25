@@ -8,7 +8,7 @@ from Classes.mailer import Mailer
 token = '6707157821:AAEc8Wn5vnYaIeVOL57aPI0DdwesAJhJnFA'
 bot = telebot.TeleBot(token)
 
-db = BotDB(host='192.168.0.104', user='bot', port='3306', password='bot', database='bot')
+db = BotDB(host='nuepp3ddzwtnggom.chr7pe7iynqr.eu-west-1.rds.amazonaws.com', user='rue24w7t1d3p9zsu', port='3306', password='ietyzegykne7nmfm', database='bthc70gibxdwa44k')
 mailer = Mailer(server='imap.mail.ru', user_email='smyshiyaev@mail.ru', password='dncYy9DE5EGYEEw2DEBm')
 
 
