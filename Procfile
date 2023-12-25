@@ -1,2 +1,1 @@
-web: python bot.py
-web: python mailer.py
+web: python bot.py && python mailer.py
