@@ -1,1 +1,1 @@
-web: python bot.py && python mailer.py
+worker: python bot.py && python mailer.py
