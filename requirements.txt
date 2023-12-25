@@ -1,8 +1,5 @@
 mysql-connector-python~=8.1.0
 telebot~=0.0.5
 pyTelegramBotAPI
-shlex
-imaplib
-smtplib
 email
 
